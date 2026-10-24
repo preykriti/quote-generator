@@ -1,4 +1,3 @@
 ## View Project
-```bash
-https://quote-generator-prakriti.netlify.app/
-```
+
+[https://quote-generator-prakriti.netlify.app/](https://quote-generator-prakriti.netlify.app/)
